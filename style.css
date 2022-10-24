@@ -9,7 +9,7 @@ ul{
 }
 
 body{
-    background-image: url(./assets/Azul.png);
+    background-image: url(./assets/Fundo.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -92,7 +92,6 @@ section p{
 }
 section ul li {
     transition: transform .3s;
-    
 }
 
 section ul li:hover {
@@ -101,11 +100,11 @@ section ul li:hover {
 
 .games-list img {
     width: 90px;
-    border-radius: 8px;
+    border-radius: 9px;
 }
 
 .streamers-list img{
-    border-radius: 100%;
+    border-radius: 50%;
     width: 70px;
 }
 
